@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\PR16Sistem\PR16Sistem\bin\Debug\PR16Sistem.exe.config
+C:\Users\Lenovo\source\repos\PR16Sistem\PR16Sistem\bin\Debug\PR16Sistem.exe
+C:\Users\Lenovo\source\repos\PR16Sistem\PR16Sistem\bin\Debug\PR16Sistem.pdb
+C:\Users\Lenovo\source\repos\PR16Sistem\PR16Sistem\obj\Debug\PR16Sistem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\PR16Sistem\PR16Sistem\obj\Debug\PR16Sistem.Form1.resources
+C:\Users\Lenovo\source\repos\PR16Sistem\PR16Sistem\obj\Debug\PR16Sistem.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\PR16Sistem\PR16Sistem\obj\Debug\PR16Sistem.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\PR16Sistem\PR16Sistem\obj\Debug\PR16Sistem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PR16Sistem\PR16Sistem\obj\Debug\PR16Sistem.exe
+C:\Users\Lenovo\source\repos\PR16Sistem\PR16Sistem\obj\Debug\PR16Sistem.pdb
